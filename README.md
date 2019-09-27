@@ -1,6 +1,6 @@
 ![Avatar](sample_pic/bender_hex_mini.png) 
 
-# Interpretation slides of the presentation given @ my company
+# Short presentation on model interpretation - pitfalls and scope
 
  - Definition and introduction
  - Discussion: is it achievable, is it useful, what's the difference between model interpretation and real-world interpretation
